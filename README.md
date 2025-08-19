@@ -105,3 +105,12 @@ For detailed explanation of all CRUD endpoints (Create, Read, Update, Delete) an
 
 👉 [View API Documentation (PDF)](./API_Documentation.pdf)
 
+## 📸 Screenshots  
+
+### 🖥️ App Preview 1
+[![Whats-App-Image-2025-08-19-at-19-45-51-b4021b70.jpg](https://i.postimg.cc/CKZbtrmf/Whats-App-Image-2025-08-19-at-19-45-51-b4021b70.jpg)](https://postimg.cc/VS8S0gyY)
+
+### 🖥️ App Preview 2
+[![Whats-App-Image-2025-08-19-at-19-48-11-89680f17.jpg](https://i.postimg.cc/7hJcZNHC/Whats-App-Image-2025-08-19-at-19-48-11-89680f17.jpg)](https://postimg.cc/H8H3SX7H)
+
+

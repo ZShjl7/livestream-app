@@ -98,3 +98,10 @@ backend/static/hls/
 **Delete overlays →** Remove them with ❌ button.
 
 All overlays are stored in MongoDB, so they stay even after refreshing the page.
+
+## 📑 API Documentation  
+
+For detailed explanation of all CRUD endpoints (Create, Read, Update, Delete) and how to interact with them, please check the full PDF documentation:  
+
+👉 [View API Documentation (PDF)](./API_Documentation.pdf)
+
